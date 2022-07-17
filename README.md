@@ -1,4 +1,4 @@
-# Opensea Single NFT Minter
+# Opensea Customized NFT Deployer
 
 - This gives you full control over newly deployed NFT collections.
 - It helps to deploy a customized NFT contract and display / trade on opensea
