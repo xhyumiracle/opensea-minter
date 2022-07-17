@@ -1,9 +1,9 @@
 # Opensea Single NFT Minter
 
-This gives you full control over newly deployed NFT collections.
-It helps to deploy a customized NFT contract and display / trade on opensea
-It support images/videos nft format.
-Currently only support ERC721, for ERC1155, you need to add other interfaces e.g. uri(uint256) etc.
+- This gives you full control over newly deployed NFT collections.
+- It helps to deploy a customized NFT contract and display / trade on opensea
+- It supports images/videos nft format.
+- Currently only support ERC721, for ERC1155, you need to add other interfaces e.g. uri(uint256) etc.
 
 ## Instructions
 1. uplaod video/image to ipfs, got the ipfs:// link
