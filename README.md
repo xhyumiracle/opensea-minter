@@ -23,3 +23,6 @@
 - https://testnets.opensea.io/assets/rinkeby/0x<contract_addr>/<token_id>
 - token_id default 1
 - wait for ~20 sec if 404
+
+## Referrence
+https://docs.opensea.io/docs/metadata-standards
